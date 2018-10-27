@@ -46,6 +46,22 @@
 * Earlier bugs identified before the users are impacted (spot smallest imperfections);
 * Easy management of the test cases;
 * Intuitive GUI that immediately shows when, where and how the execution failed;
+* Our solution is to build a framework to help make your test automation code:
+  * Reusable AND Maintainable AND Stable
+* Benefits:
+  * Reduces the time and effort you need to spend on QA while providing quick feedback and expanding code coverage => better product
+  * ROI: if executed properly, introducing automation into your organization is worth the investment.
+  * Minimal manual intervention
+  * Lower maintenace costs
+  * Performance
+  * Load
+  * Security
+  * Accesibility
+  * Production monitoring
+  * Mitigate RISK: Can help Stakeholders and POs better manage risk by addressing many of their concerns early in the process. Moreover, the cost of change to a system is greatly reduced by test automation, so it’s much easier when a bug fix or feature enhancement needs to be pushed to production.
+  * Turnaround time
+  * Less tester fatigue (time-consuming)
+  * Decreased human error
 
 ### 5. Customer segment/s
 
@@ -114,21 +130,20 @@
   * those who do not use automated testing frameworks (but have the need to)
 * Explain our proposed solutions to both types of customers and gather feedback. For customers who already use an automated testing framework, see which ones are willing to migrate from an existing platform and learn why others won’t (what the reasons are, what features they’re not willing to give up on etc.)
 
-### 4. Describe the process in detail - how you identified your customer segment/s, how you reached them, how you collected information from them (focus groups, face-to-face interviews, questionnaires, online forms/questionnaire, email collection on landing page etc). Include the questions that you asked and all of your findings. 
+### 4. Describe the process in detail:
+* How you identified your customer segment/s, how you reached them, how you collected information from them (focus groups, face-to-face interviews, questionnaires, online forms/questionnaire, email collection on landing page etc);
+* Include the questions that you asked and all of your findings;
 
 * The main customers will be the big companies that develop web applications because they spend a lot of time for testing. Any modification to an application requires a complete regression testing of the entire application to see if any other sections of the applications have been affected.
 * At the same time, this testing process should be done as quickly as possible to make changes in production to repair some bugs or to bring new features. The solution for these companies would be to automate this process by writing automated tests and running them quickly on an infrastructure that our application will provide. To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
 * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
 
-
-In which language do you prefer to write tests:
-Java (21%)
-Javascript (24%)
-Python (18%)
-PHP (27%)
-Other (10%)
-
-
+1. In which language do you prefer to write tests:
+  * Java (21%)
+  * Javascript (24%)
+  * Python (18%)
+  * PHP (27%)
+  * Other (10%)
 
 ### 5. Describe how these insights have affected your product (if in any way).
 
