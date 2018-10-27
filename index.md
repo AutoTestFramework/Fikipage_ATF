@@ -146,7 +146,7 @@
 #### 4.2 How you reached them, how you collected information from them? Include the questions that you asked and all of your findings.
   
   * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
-  * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
+  * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions (https://docs.google.com/forms/d/e/1FAIpQLSfibey92Iiv6dQyhn6W_fFrSSLx5lPOWiEQT81tvh_lGo9Fww/viewform?usp=sf_link)
 
 ```markdown
 
