@@ -149,32 +149,38 @@
   * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
 
 ```markdown
-### 1. How do you run the automated tests:
+
+### 1. Do you, or your current team, possess enough technical skills to build and maintain test automation?
+  • Yes (10%)
+  • Partially (34%)
+  • No (56%)
+
+### 2. How do you run the automated tests:
 
   • in an application developed in-house (12%)
   • in a commercial application (31%)
   • locally on your PC / Laptop (57%)
   • otherwise
   
-### 2. How often do you run automated tests:
+### 3. How often do you run automated tests:
 
   • Daily (40%)
   • several times a week (47%)
   • several times a month (13%)
   
-### 3. What types of tests you run (multiple responses):
+### 4. What types of tests you run (multiple responses):
 
   • Api (12%)
   • Smoke (37%)
   • Acceptance (46%)
   • Others (5%)
 
-### 4. HOW do you prefer to create tests and WHY?
+### 5. HOW do you prefer to create tests and WHY?
 
   • Clicking in the interface (7%, no programming skills required)
   • Writing Code (93%, better structure of tests, component reuse, creation of own logic, ...)
   
-### 5. In which language do you prefer to write tests:
+### 6. In which language do you prefer to write tests:
 
   • Java (21%)
   • Javascript (24%)
@@ -182,7 +188,7 @@
   • PHP (27%)
   • Other (10%)
   
-### 8. How useful do you consider the following features for you (with Useless, Useful, Very useful)
+### 7. How useful do you consider the following features for you (with Useless, Useful, Very useful):
 
   • Running tests in serial/parallel
     ○ 7% - Useless, 65% - Useful, 28% - Very useful
@@ -196,6 +202,18 @@
     ○ 10% - Useless, 61% - Useful, 29% - Very useful
   • Running tests on different versions of browsers
     ○ 15% - Useless, 66% - Useful, 19% - Very useful
+    
+### 8. What is the one main benefit of test automation you expect to gain?
+  •  More confidence in the released product (27%)
+  •  Higher product quality (26%)
+  •  Faster releases/meeting the schedule (19%)
+  •  More interesting job/skill than manual testing (7%)
+  •  Creating and automating tests helps everyone better understand the system under test (7%)
+  •  Show system consistency (2%)
+  •  Customers finding less bugs (2%)
+  •  Less support issues (2%)
+  •  Finding more bugs (1%)
+  •  None/no benefit (1%)
 ```
 
 ### 5. Describe how these insights have affected your product (if in any way).
