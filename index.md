@@ -147,13 +147,56 @@
   
   * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
   * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
+  
+```markdown
+### 1. How do you run the automated tests:
 
-1. In which language do you prefer to write tests:
-  * Java (21%)
-  * Javascript (24%)
-  * Python (18%)
-  * PHP (27%)
-  * Other (10%)
+  • in an application developed in-house (12%)
+  • in a commercial application (31%)
+  • locally on your PC / Laptop (57%)
+  • otherwise
+  
+### 2. How often do you run automated tests:
+
+  • Daily (40%)
+  • several times a week (47%)
+  • several times a month (13%)
+  
+### 3. What types of tests you run (multiple responses):
+
+  • Api (12%)
+  • Smoke (37%)
+  • Acceptance (46%)
+  • Others (5%)
+
+### 4. HOW do you prefer to create tests and WHY?
+
+  • Clicking in the interface (7%, no programming skills required)
+  • Writing Code (93%, better structure of tests, component reuse, creation of own logic, ...)
+  
+### 5. In which language do you prefer to write tests:
+
+  • Java (21%)
+  • Javascript (24%)
+  • Python (18%)
+  • PHP (27%)
+  • Other (10%)
+  
+### 8. How useful do you consider the following features for you (with Useless, Useful, Very useful)
+
+  • Running tests in serial/parallel
+    ○ 7% - Useless, 65% - Useful, 28% - Very useful
+  • Running defined tests via API
+    ○ 15% - Useless, 73% - Useful, 12% - Very useful
+  • Running testing plans on Schedule
+    ○ 8% - Useless, 73% - Useful, 12% - Very useful
+  • Running tests on different operating systems
+    ○ 81% - Useless, 17% - Useful, 2% - Very useful
+  • Running tests on different browsers
+    ○ 10% - Useless, 61% - Useful, 29% - Very useful
+  • Running tests on different versions of browsers
+    ○ 15% - Useless, 66% - Useful, 19% - Very useful
+```
 
 ### 5. Describe how these insights have affected your product (if in any way).
 
