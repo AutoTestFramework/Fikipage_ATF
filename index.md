@@ -131,12 +131,14 @@
 * Explain our proposed solutions to both types of customers and gather feedback. For customers who already use an automated testing framework, see which ones are willing to migrate from an existing platform and learn why others won’t (what the reasons are, what features they’re not willing to give up on etc.)
 
 ### 4. Describe the process in detail:
-* How you identified your customer segment/s, how you reached them, how you collected information from them (focus groups, face-to-face interviews, questionnaires, online forms/questionnaire, email collection on landing page etc);
-* Include the questions that you asked and all of your findings;
 
-* The main customers will be the big companies that develop web applications because they spend a lot of time for testing. Any modification to an application requires a complete regression testing of the entire application to see if any other sections of the applications have been affected.
-* At the same time, this testing process should be done as quickly as possible to make changes in production to repair some bugs or to bring new features. The solution for these companies would be to automate this process by writing automated tests and running them quickly on an infrastructure that our application will provide. To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
-* So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
+#### 4.1 How you identified your customer segment/s?
+  * The main customers will be the big companies that develop web applications because they spend a lot of time for testing. Any modification to an application requires a complete regression testing of the entire application to see if any other sections of the applications have been affected.
+  * At the same time, this testing process should be done as quickly as possible to make changes in production to repair some bugs or to bring new features. The solution for these companies would be to automate this process by writing automated tests and running them quickly on an infrastructure that our application will provide.
+
+#### 4.2 How you reached them, how you collected information from them (focus groups, face-to-face interviews, questionnaires, online forms/questionnaire, email collection on landing page etc)? Include the questions that you asked and all of your findings.
+  * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
+  * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
 
 1. In which language do you prefer to write tests:
   * Java (21%)
@@ -151,4 +153,4 @@
 
 ### 6. Do you consider that you are ready to move to the Customer Validation stage (to test selling)? Provide arguments.
 
-* Considering that we’ve covered all complaints about other existing solutions regarding Automated Testing Frameworks and that most customers are happy with our other proposals, we’re ready to move on to the next stage.
+* Considering that we’ve covered all complaints about other existing solutions regarding Automated Testing Frameworks and that most customers are happy with our other proposals, we’re ready to move on to the next stage!!!
