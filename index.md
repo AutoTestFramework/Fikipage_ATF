@@ -13,18 +13,26 @@
    * The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. To achieve that, we create the **AGILE team**:
 
       * Front-End Engineer & UI/UX Designer: Andreea Alistar 
-        * Role: Product Owner 
+        * Role: Product Owner
         * Email: andreealistar@gmail.com
+        * Linkedin: https://www.linkedin.com/in/andreea-alistar-305331101/
+        * Facebook: https://www.facebook.com/alistar.andreea
 
       * Front-End Engineer: Eugeniu Draguteanu
         * Email: eugeniu.draguteanu@gmail.com
+        * Linkedin: https://www.linkedin.com/in/eugeniu-draguteanu-510798103/
+        * Facebook: https://www.facebook.com/eugen.draguteanu
         
       * Backend Architect + QA: Cirimpei Dumitru 
         * Role: Scrum Master
         * Email: cirimpei.dumitru@gmail.com
+        * Linkedin: https://www.linkedin.com/in/dumitru-cirimpei/
+        * Facebook: https://www.facebook.com/mitrumd
         
       * Full Stack + QA Engineer: Andrei Crividenco
         * Email: acrividenco@gmail.com
+        * Linkedin: https://www.linkedin.com/in/andrei-crividenco-76538814b/
+        * Facebook: https://www.facebook.com/zdxf.adf
 
 ### 3. Describe the problem that you have noticed
 
@@ -46,6 +54,16 @@
 * Independent people or students working on software projects;
 
 ### 6. Competition
+
+|                 |     Price    |      Platform     |                          Supported languages                          |        Tested apps        |              Coding skills required              |
+|:---------------:|:------------:|:-----------------:|:---------------------------------------------------------------------:|:-------------------------:|:------------------------------------------------:|
+|     **Selenium**    |     Free     | Windows/Mac/Linux |             Java, Python, C#, PHP, JavaScript, Ruby, Perl             | Web, mobile (with Appium) |                  Advanced skills                 |
+|   **TestComplete**  |  $4600/$9000 |      Windows      | VB, JavaScript, Jscript, C++, C#, Delphi, Angular, Ruby on Rails, PHP |    Web, mobile, desktop   | Minimum skills/Advanced skills for pro scripting |
+| **Tricentis Tosca** | Custom, high |      Windows      |                               Javascript                              |    Web, mobile, desktop   | Minimum skills/Advanced skills for pro scripting |
+|  **Katalon Studio** |     Free     |    Windows/Mac    |                              Java/Groovy                              |        Web, mobile        | Minimum skills/Advanced skills for pro scripting |
+|       **UFT**       |  $2500/$3500 |      Windows      |                                VBScript                               |    Web, mobile, desktop   | Minimum skills/Advanced skills for pro scripting |
+|      **Watir**      |     Free     |      Windows      |                     Ruby (Java/.Net alternatively)                    |            Web            |                  Minimum skills                  |
+|     **Ranorex**     |  $2800/$850  |      Windows      |                        C#, VB.Net, Iron Python                        |    Web, mobile, desktop   | Minimum skills/Advanced skills for pro scripting |
 
 ### 7. Your advantage over the competition
 
@@ -101,6 +119,16 @@
 * The main customers will be the big companies that develop web applications because they spend a lot of time for testing. Any modification to an application requires a complete regression testing of the entire application to see if any other sections of the applications have been affected.
 * At the same time, this testing process should be done as quickly as possible to make changes in production to repair some bugs or to bring new features. The solution for these companies would be to automate this process by writing automated tests and running them quickly on an infrastructure that our application will provide. To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
 * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
+
+
+In which language do you prefer to write tests:
+Java (21%)
+Javascript (24%)
+Python (18%)
+PHP (27%)
+Other (10%)
+
+
 
 ### 5. Describe how these insights have affected your product (if in any way).
 
