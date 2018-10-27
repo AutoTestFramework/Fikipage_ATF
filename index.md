@@ -132,8 +132,8 @@
 ### 3. Your plan for customer discovery (short overview before going into detail).
 
   * There are two types of potential customers: 
-    * those who do
-    * those who do not use automated testing frameworks (but have the need to)
+    * __those who DO__
+    * __those who DON'T use automated testing frameworks (but have the need to)__
   * Explain our proposed solutions to both types of customers and gather feedback. For customers who already use an automated testing framework, see which ones are willing to migrate from an existing platform and learn why others won’t (what the reasons are, what features they’re not willing to give up on etc.)
 
 ### 4. Describe the process in detail:
@@ -151,6 +151,7 @@
 ```markdown
 
 ### 1. Do you, or your current team, possess enough technical skills to build and maintain test automation?
+
   • Yes (10%)
   • Partially (34%)
   • No (56%)
@@ -204,6 +205,7 @@
     ○ 15% - Useless, 66% - Useful, 19% - Very useful
     
 ### 8. What is the one main benefit of test automation you expect to gain?
+
   •  More confidence in the released product (27%)
   •  Higher product quality (26%)
   •  Faster releases/meeting the schedule (19%)
@@ -214,6 +216,7 @@
   •  Less support issues (2%)
   •  Finding more bugs (1%)
   •  None/no benefit (1%)
+  
 ```
 
 ### 5. Describe how these insights have affected your product (if in any way).
