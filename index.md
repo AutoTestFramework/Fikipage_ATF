@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
+# M1 - Fiki and Project Description
 
-You can use the [editor on GitHub](https://github.com/AutoTestFramework/Fikipage_ATF/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1. Project title - Automated Testing Framework (ATF)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Test automation provides sanity checks for ever-changing production code. Automation framework consists of the integration of tools, libraries and utilities needed to interact with the system under test. Automated tests are scripted scenarios that drive the framework to query the application through a series of steps, and then use the information the framework gathered to determine the state of your test.* 
 
-### Markdown
+### 2. Present the team and assign the roles (such as FR, BE, PO, PM, etc)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **What we want to achieve?** 
+   * Test automation is living, breathing code and is developed to provide sanity checks for ever-changing production code. Building an automated testing framework can make your testing scalable, reliable, efficient, cost-effective and less brittle.
 
-```markdown
-Syntax highlighted code block
+* **What we need?** 
+   * The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. To achieve that, we create the **AGILE team**:
 
-# Header 1
-## Header 2
-### Header 3
+      * Front-End Engineer & UI/UX Designer: Andreea Alistar 
+        * Role: Product Owner 
+        * Email: andreealistar@gmail.com
 
-- Bulleted
-- List
+      * Front-End Engineer: Eugeniu Draguteanu
+        * Email: eugeniu.draguteanu@gmail.com
+        
+      * Backend Architect + QA: Cirimpei Dumitru 
+        * Role: Scrum Master
+        * Email: cirimpei.dumitru@gmail.com
+        
+      * Full Stack + QA Engineer: Andrei Crividenco
+        * Email: acrividenco@gmail.com
 
-1. Numbered
-2. List
+### 3. Describe the problem that you have noticed
 
-**Bold** and _Italic_ and `Code` text
+* Manual testing is a thing of the past;
+* The current frameworks have limited features;
+* Expensive for what if offers (license or subscription costs of commercial automation solutions);
 
-[Link](url) and ![Image](src)
-```
+### 4. Your solution / value proposition
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Reduce the work of manual testing (time savings + staff performance);
+* Earlier bugs identified before the users are impacted (spot smallest imperfections);
+* Easy management of the test cases;
+* Intuitive GUI that immediately shows when, where and how the execution failed;
 
-### Jekyll Themes
+### 5. Customer segment/s
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AutoTestFramework/Fikipage_ATF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Corporate IT with complex software solutions;
+* Small and medium businesses which contribute with software to the bigger picture;
+* Independent people or students working on software projects;
 
-### Support or Contact
+### 6. Competition
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 7. Your advantage over the competition
+
+* Cost: open source + free license cost;
+* Customization;
+* Control;
+* Ease of use;
+* No advertising, no clutter;
+* Fast support;
+* No unnecessary features;
+
+### 8. Key metrics
+
+* Customer satisfaction;
+* Failure rates;
+* Server uptime;
+* Adoption rate;
+* Tests running overhead;
+
+### 9. Cost structure
+
+* Marketplace for special plugins and features, like: storing tests in the cloud, scm for the tests, custom user intefaces;
+* A donation button will be available on the main download page;
+
+### 10. Revenue streams
+
+* Donations;
+* Paid modules like Connect to DB, Connect to RabbitMQ, etc.;
+* Running tests in parallel;
+* Running tests for specific browser on specific version on specific operating system;
+
+
+# M2 - Validation 1 (idea)
+
+### 1. How you identified the problem?
+
+* Current solutions, while offering lots of features, also introduce a lot of overhead and complicated configurations. Much needed features like the ones proposed are never aggregated into one application(code versioning, cloud storage etc.). Graphical user interfaces are ambiguous due to the need of providing access to every feature;
+
+### 2. What you thought is a solution for the problem?
+
+* An open-source application model, offering as much extensibility as possible and a freemium-based revenue (from plugins and cloud storage space) with the possibility of donations.
+* The solution has to address the main problems: stick to the most necessary features, maintain a simple interface with great performance, offer plugins for special features.
+
+### 3. Your plan for customer discovery (short overview before going into detail).
+
+* There are two types of potential customers: 
+  * those who do
+  * those who do not use automated testing frameworks (but have the need to)
+* Explain our proposed solutions to both types of customers and gather feedback. For customers who already use an automated testing framework, see which ones are willing to migrate from an existing platform and learn why others won’t (what the reasons are, what features they’re not willing to give up on etc.)
+
+### 4. Describe the process in detail - how you identified your customer segment/s, how you reached them, how you collected information from them (focus groups, face-to-face interviews, questionnaires, online forms/questionnaire, email collection on landing page etc). Include the questions that you asked and all of your findings. 
+
+* The main customers will be the big companies that develop web applications because they spend a lot of time for testing. Any modification to an application requires a complete regression testing of the entire application to see if any other sections of the applications have been affected.
+* At the same time, this testing process should be done as quickly as possible to make changes in production to repair some bugs or to bring new features. The solution for these companies would be to automate this process by writing automated tests and running them quickly on an infrastructure that our application will provide. To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
+* So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
+
+### 5. Describe how these insights have affected your product (if in any way).
+
+* Complaints about performance on existing products made us decide that special features have to be offered as plugins, instead of being included in the base product, so that the end product would be simple, fast and limited to basic needs, but also feature-filled if necessary. Customers not already using such a framework also wished for fast and simple way to test their applications, without unnecessary complications.
+
+### 6. Do you consider that you are ready to move to the Customer Validation stage (to test selling)? Provide arguments.
+
+* Considering that we’ve covered all complaints about other existing solutions regarding Automated Testing Frameworks and that most customers are happy with our other proposals, we’re ready to move on to the next stage.
