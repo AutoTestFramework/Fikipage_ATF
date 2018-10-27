@@ -2,7 +2,7 @@
 
 ### 1. Project title - Automated Testing Framework (ATF)
 
-*Test automation provides sanity checks for ever-changing production code. Automation framework consists of the integration of tools, libraries and utilities needed to interact with the system under test. Automated tests are scripted scenarios that drive the framework to query the application through a series of steps, and then use the information the framework gathered to determine the state of your test.* 
+* *Test automation provides sanity checks for ever-changing production code. Automation framework consists of the integration of tools, libraries and utilities needed to interact with the system under test. Automated tests are scripted scenarios that drive the framework to query the application through a series of steps, and then use the information the framework gathered to determine the state of your test.* 
 
 ### 2. Present the team and assign the roles (such as FR, BE, PO, PM, etc)
 
