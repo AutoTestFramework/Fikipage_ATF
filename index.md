@@ -147,7 +147,7 @@
   
   * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
   * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions:
-  
+
 ```markdown
 ### 1. How do you run the automated tests:
 
