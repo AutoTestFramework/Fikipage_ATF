@@ -239,6 +239,8 @@
 
 `Conclusions`
 
+  ![Screenshot](/survey_responses.jpg)
+
 * From the results obtained through this survey we realized more than 50% of those interested in automated testing, runs tests locally on theirs PCs, so they could become potential users of our application, 31% don't have an in-house framework so they could choose our product.
 * At the same time we found out that 60% do not run the tests every day, so they don't use their infrastructure to the maximum of potential and could reduce costs by running tests in our application on-demand. We also determined that most of users prefer to write tests as code and the most used languages that our application should to support. We also have the list of the most useful and wanted functionalities so we know how to prioritize them for a MVP.
 
