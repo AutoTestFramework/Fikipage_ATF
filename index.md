@@ -1,4 +1,5 @@
 # M1 - Fiki and Project Description
+### Andreea Alistar   AND   Andrei Crividenco   AND   Cirimpei Dumitru  AND   Eugen Draguteanu
 ---
 
 ### 1. Project title - Automated Testing Framework (ATF)
@@ -19,7 +20,7 @@
           * Linkedin: https://www.linkedin.com/in/andreea-alistar-305331101/
           * Facebook: https://www.facebook.com/alistar.andreea
 
-      `Front-End Engineer: Eugeniu Draguteanu`
+      `Front-End Engineer: Eugen Draguteanu`
         * Role: Developer
           * Email: eugeniu.draguteanu@gmail.com
           * Linkedin: https://www.linkedin.com/in/eugeniu-draguteanu-510798103/
@@ -122,6 +123,7 @@
 
 
 # M2 - Validation 1 (idea)
+### Andreea Alistar   AND   Andrei Crividenco   AND   Cirimpei Dumitru  AND   Eugen Draguteanu
 ---
 
 ### 1. How you identified the problem?
