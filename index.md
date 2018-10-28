@@ -1,4 +1,5 @@
 # M1 - Fiki and Project Description
+---
 
 ### 1. Project title - Automated Testing Framework (ATF)
 
@@ -119,6 +120,8 @@
 
 
 # M2 - Validation 1 (idea)
+---
+
 
 ### 1. How you identified the problem?
 
