@@ -285,12 +285,12 @@ Answers:
   
 ### Do you think we lied? Check this out!
 
-  ![Screenshot](/0_response.png)
-  ![Screenshot](/1_response.png)
-  ![Screenshot](/2_response.png)
-  ![Screenshot](/3_response.png)
-  ![Screenshot](/4_response.png)
-  ![Screenshot](/5_response.png)
+  ![Screenshot](/0_response.PNG)
+  ![Screenshot](/1_response.PNG)
+  ![Screenshot](/2_response.PNG)
+  ![Screenshot](/3_response.PNG)
+  ![Screenshot](/4_response.PNG)
+  ![Screenshot](/5_response.PNG)
 
 #### What people wanted from us?
   * Higher confidence, increased quality, faster releases;
