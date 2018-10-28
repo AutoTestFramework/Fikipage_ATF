@@ -1,6 +1,5 @@
 title: Automated Testing Framework
 description: Web application for creating, administrating and running automated tests.
-description: **“Tests as first-class citizen.”**
 use_logo: true
 logo: /logo_atf.png
 theme:  jekyll-theme-cayman
