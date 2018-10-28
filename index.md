@@ -1,9 +1,8 @@
 # M1 - Fiki and Project Description
 ---
-#### Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
+#### Team M1: Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
+#### Motto:   “Tests as first-class citizen.”
 ---
-
-## Motto: “Tests as first-class citizen.”
 
 ### 1. Project title - Automated Testing Framework (ATF)
 
@@ -132,7 +131,8 @@
 
 # M2 - Validation 1 (idea)
 ---
-#### Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
+#### Team M2: Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
+#### Motto:   “Tests as first-class citizen.”
 ---
 
 ### 1. How you identified the problem?
