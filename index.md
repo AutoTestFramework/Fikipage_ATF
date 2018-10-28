@@ -17,27 +17,27 @@
 
      ![Screenshot](/alistar.png) `Front-End Engineer & UI/UX Designer: Andreea Alistar`
         * Role: Product Owner
-          * Email: andreealistar@gmail.com
-          * Linkedin: [Linkedin_Alistar_Andreea](https://www.linkedin.com/in/andreea-alistar-305331101/)
-          * Facebook: [Facebook_Alistar_Andreea](https://www.facebook.com/alistar.andreea)
+          * Email: [andreealistar@gmail.com](andreealistar@gmail.com)
+          * Linkedin: [https://www.linkedin.com/in/andreea-alistar](https://www.linkedin.com/in/andreea-alistar-305331101/)
+          * Facebook: [https://www.facebook.com/alistar.andreea](https://www.facebook.com/alistar.andreea)
 
       ![Screenshot](/eugen.png) `Front-End Engineer: Eugen Draguteanu`
         * Role: Developer
-          * Email: eugeniu.draguteanu@gmail.com
-          * Linkedin: [Linkedin_Eugen_Draguteanu](https://www.linkedin.com/in/eugeniu-draguteanu-510798103/)
-          * Facebook: [Facebook_Eugen_Draguteanu](https://www.facebook.com/eugen.draguteanu)
+          * Email: [eugeniu.draguteanu@gmail.com](eugeniu.draguteanu@gmail.com)
+          * Linkedin: [https://www.linkedin.com/in/eugeniu-draguteanu](https://www.linkedin.com/in/eugeniu-draguteanu-510798103/)
+          * Facebook: [https://www.facebook.com/eugen.draguteanu](https://www.facebook.com/eugen.draguteanu)
         
       ![Screenshot](/cirimpei.png) `Backend Architect + QA: Cirimpei Dumitru`
         * Role: Scrum Master
-          * Email: cirimpei.dumitru@gmail.com
-          * Linkedin: [Linkedin_Cirimpei_Dumitru](https://www.linkedin.com/in/dumitru-cirimpei/)
-          * Facebook: [Facebook_Cirimpei_Dumitru](https://www.facebook.com/mitrumd)
+          * Email: [cirimpei.dumitru@gmail.com](cirimpei.dumitru@gmail.com)
+          * Linkedin: [https://www.linkedin.com/in/dumitru-cirimpei](https://www.linkedin.com/in/dumitru-cirimpei/)
+          * Facebook: [https://www.facebook.com/dumitru.cirimpei](https://www.facebook.com/mitrumd)
         
       ![Screenshot](/andrei.png) `Full Stack + QA Engineer: Andrei Crividenco`
         * Role: Developer
-          * Email: acrividenco@gmail.com
-          * Linkedin: [Linkedin_Andrei_Crividenco](https://www.linkedin.com/in/andrei-crividenco-76538814b/)
-          * Facebook: [Facebook_Andrei_Crividenco](https://www.facebook.com/zdxf.adf)
+          * Email: [acrividenco@gmail.com](acrividenco@gmail.com)
+          * Linkedin: [https://www.linkedin.com/in/andrei-crividenco](https://www.linkedin.com/in/andrei-crividenco-76538814b/)
+          * Facebook: [https://www.facebook.com/andrei.crividenco](https://www.facebook.com/zdxf.adf)
 
 ### 3. Describe the problem that you have noticed
 
