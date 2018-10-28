@@ -170,71 +170,100 @@
 
 ### 1. Do you, or your current team, possess enough technical skills to build and maintain test automation?
 
-  • Yes
-  • Partially
-  • No
+  • Yes (61.5%)
+  • Partially (26.9%)
+  • No (11.5%)
 
 ### 2. How do you run the automated tests:
 
-  • In an application developed in-house
-  • In a commercial application
-  • Locally on your PC / Laptop
-  • Otherwise
+  • In an application developed in-house (26.9%)
+  • In a commercial application (26.9%)
+  • Locally on your PC / Laptop (26.9%)
+  • Otherwise (19.2%)
   
 ### 3. How often do you run automated tests:
 
-  • Daily
-  • Several times a week
-  • Several times a month
+  • Daily (50%)
+  • Several times a week (11.5%)
+  • Several times a month (38.5)
   
 ### 4. What types of tests you run (multiple responses):
 
-  • Api
-  • Smoke
-  • Acceptance
-  • Others
+  • Api (50%)
+  • Smoke (23.1%)
+  • Acceptance (38.5%)
+  • Others (57.7%)
 
 ### 5. HOW do you prefer to create tests and WHY?
 
-  • Clicking in the interface (no programming skills required)
-  • Writing Code (better structure of tests, component reuse, creation of own logic, ...)
+  • Clicking in the interface (no programming skills required) (15.4%)
+  • Writing Code (better structure of tests, component reuse, creation of own logic, ...) (84.6%)
   
 ### 6. In which language do you prefer to write tests:
 
-  • Java
-  • Javascript
-  • Python
-  • PHP
-  • Other
+  • Java (65.4%)
+  • Javascript (0%)
+  • Python (23.1%)
+  • PHP (0%)
+  • Other (11.5%)
   
 ### 7. How useful do you consider the following features for you (with Useless, Useful, Very useful):
 
   • Running tests in serial/parallel
-    ○ Useless, Useful, Very useful
+    ○ Useless (2 persons), Useful (6 persons), Very useful (18 persons)
   • Running defined tests via API
-    ○ Useless, Useful, Very useful
+    ○ Useless (1 person), Useful (13 persons), Very useful (12 persons)
   • Running testing plans on Schedule
-    ○ Useless, Useful, Very useful
+    ○ Useless (2 persons), Useful (12 persons), Very useful (12 persons)
   • Running tests on different operating systems
-    ○ Useless, Useful, Very useful
+    ○ Useless (5 persons), Useful (9 persons), Very useful (12 persons)
   • Running tests on different browsers
-    ○ Useless, Useful, Very useful
+    ○ Useless (4 persons), Useful (14 persons), Very useful (8 persons)
   • Running tests on different versions of browsers
-    ○ Useless, Useful, Very useful
+    ○ Useless (7 persons), Useful (10 persons), Very useful (9 persons)
     
 ### 8. What is the one main benefit of test automation you expect to gain?
 
-  •  More confidence in the released product
-  •  Higher product quality
-  •  Faster releases/meeting the schedule
-  •  More interesting job/skill than manual testing
-  •  Creating and automating tests helps everyone better understand the system under test
-  •  Show system consistency
-  •  Customers finding less bugs
-  •  Less support issues
-  •  Finding more bugs
-  •  None/no benefit
+  •  More confidence in the released product (19.2%)
+  •  Higher product quality (30.8%)
+  •  Faster releases/meeting the schedule (23.1%)
+  •  More interesting job/skill than manual testing (3.8%)
+  •  Creating and automating tests helps everyone better understand the system under test (7.7%)
+  •  Show system consistency (3.8%)
+  •  Customers finding less bugs (3.8%)
+  •  Less support issues (3.8%)
+  •  Finding more bugs (3.8%)
+  •  None/no benefit (3.8%)
   
+###  What feature would you prefer implemented by default ? (considering some performance impact)
+
+Answers:
+•  It would be nice for an ATF to have a feature that tells you the code coverage for each test.
+•  Multitasking used for isolated parallel testing.
+•  .
+•  Mobile view test
+•  Running testing plans on Schedule
+•  Have the ability to navigate easily between tests, run multiple tests in parallel.
+•  Email notification
+•  Intuitive API interface
+•  Clear overview of the tests and results and charys
+•  None
+•  Possible hints to how certain bugs can be fixed (e.g. how Microsoft Excel gives clues to how to fix what it detects to be a wrong formula).
+•  Mocking
+•  context setup/destruction from code for each test
+•  Dont understand the questiin
+•  Run the tests in parallel.
+•  N/A
+•  Performance tracking/management
+•  Don’t understand the question
+•  Be able to see the stacks of records and be able to play back test cases
+•  Less human interaction
+•  Scalability
+•  Running parallel tests
+•  paralelismul
+•  ALL OF THEM
+•  Coverage
+•  Paralel tests
 ```
 
 `Conclusions`
