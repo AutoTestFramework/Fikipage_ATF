@@ -59,17 +59,11 @@
 * Intuitive GUI that immediately shows when, where and how the execution failed;
 * Our solution is to build a framework to help make your test automation code:
   * Reusable AND Maintainable AND Stable
-* Benefits:
-  * Reduces the time and effort you need to spend on QA while providing quick feedback and expanding code coverage => better product
-  * ROI: if executed properly, introducing automation into your organization is worth the investment.
-  * Minimal manual intervention
-  * Lower maintenace costs
-  * Performance
-  * Load
-  * Security
-  * Accesibility
-  * Production monitoring
-  * Mitigate RISK: Can help Stakeholders and POs better manage risk by addressing many of their concerns early in the process. Moreover, the cost of change to a system is greatly reduced by test automation, so it’s much easier when a bug fix or feature enhancement needs to be pushed to production.
+* Benefits for our clients:
+  * Reduces the time and effort you need to spend on QA (minimal manual intervention) while providing quick feedback and expanding code coverage => better product
+  * Lower maintenace costs: if executed properly, introducing automation into your organization is worth the investment.
+  * Better Accesibility & Performance & Security;
+  * Mitigate RISK: Can help Stakeholders and POs better manage risk by addressing many of their concerns early in the process. Moreover, the cost of change to a system is greatly reduced by test automation, so it’s much easier when a bug fix or feature enhancement needs to be pushed to production. (production monitoring)
   * Turnaround time
   * Less tester fatigue (time-consuming)
   * Decreased human error
@@ -113,7 +107,8 @@
 ### 9. Cost structure
 
 * Marketplace for special plugins and features: storing tests in the cloud, scm for the tests, custom user intefaces;
-* A donation button will be available on the main download page => revenue is equally divided;
+* A donation button will be available on the main download page (revenue is equally divided)
+* Google AdSense (for promoting)
 
 ### 10. Revenue streams
 
