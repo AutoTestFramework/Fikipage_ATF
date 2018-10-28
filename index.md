@@ -160,51 +160,60 @@
   * The survey included the following questions:
 
 ```markdown
-
 ### 1. Do you, or your current team, possess enough technical skills to build and maintain test automation?
 
   • Yes (63%)
   • Partially (25.9%)
   • No (11.1%)
-  
-Conclusion: 63% responded that they have enough technical skills to build and maintain test automation. We think this is a good result for us because now we know that the majority of teams are using automated testing and we can propose them a solution to optimize and to reduce the time needed to maintain the testing process. Even if they concluded that they posses enough technical skills to be able to build and maintan test automation, we can't be sure of that. Three levels of skills are required:
+```
+
+```Conclusion:``` 63% responded that they have enough technical skills to build and maintain test automation. We think this is a good result for us because now we know that the majority of teams are using automated testing and we can propose them a solution to optimize and to reduce the time needed to maintain the testing process. Even if they concluded that they posses enough technical skills to be able to build and maintan test automation, we can't be sure of that. Three levels of skills are required:
   * Organizing and creating GOOD + MEANINGFUL + EFFECTIVE tests
   * Running and maintaining test suites created (knowledge of the automation tool)
   * Automating the tests in the automation tool (knowledge of the tool and the language used in authoring the tests in that tool)
 
+```markdown
 ### 2. How do you run the automated tests:
 
   • In an application developed in-house (25.9%)
   • In a commercial application (25.9%)
   • Locally on your PC / Laptop (29.9%)
   • Otherwise (18.5%)
+```
+
+```Conclusion:``` 25.9% use in-house developed application, respectively theirs PC / Laptop and don’t use commercial applications. We can conclude that current applications available on market aren’t good enough or are too expensive. If our product will offer great features and will be available for an attractive price, we can motivate this category of developers to use our solution.
   
-Conclusion: 25.9% use in-house developed application, respectively theirs PC / Laptop and don’t use commercial applications. We can conclude that current applications available on market aren’t good enough or are too expensive. If our product will offer great features and will be available for an attractive price, we can motivate this category of developers to use our solution.
-  
+```markdown
 ### 3. How often do you run automated tests:
 
   • Daily (48.1%)
   • Several times a week (14.8%)
   • Several times a month (37%)
+```
+
+```Conclusion:``` We can see that developers run tests often and a framework can greatly reduce the time for teams that are spending on testing and increase overall productivity.
   
-Conclusion: We can see that developers run tests often and a framework can greatly reduce the time for teams that are spending on testing and increase overall productivity.
-  
+```markdown
 ### 4. What types of tests you run (multiple responses):
 
   • Api (51.9%)
   • Smoke (25.9%)
   • Acceptance (37%)
   • Others (59.3%)
+```
 
-Conclusion: Our product will cover the most popular types of tests including API, Smoke and Acceptance tests and will be useful for most developers.
+```Conclusion:``` Our product will cover the most popular types of tests including API, Smoke and Acceptance tests and will be useful for most developers.
 
+```markdown
 ### 5. HOW do you prefer to create tests and WHY?
 
   • Clicking in the interface (no programming skills required) (14.8%)
   • Writing Code (better structure of tests, component reuse, creation of own logic, ...) (85.2%)
+```
+
+```Conclusion:``` Our solution will require writing code for creating tests and as we can see from the survey, this is the preferred method for developers to create tests.
   
-Conclusion: Our solution will require writing code for creating tests and as we can see from the survey, this is the preferred method for developers to create tests.
-  
+```markdown
 ### 6. In which language do you prefer to write tests:
 
   • Java (63%)
@@ -212,9 +221,11 @@ Conclusion: Our solution will require writing code for creating tests and as we 
   • Python (22.2%)
   • PHP (0%)
   • Other (14.8%)
-  
-Conclusion: In the first instance, we planned to use PHP language for writing tests, but after we have seen the survey results, we are seriously considering to add a new feature that will offer the possibility to select a language from several available to write tests including Java, Javascript and Python.
+```
 
+```Conclusion:``` In the first instance, we planned to use PHP language for writing tests, but after we have seen the survey results, we are seriously considering to add a new feature that will offer the possibility to select a language from several available to write tests including Java, Javascript and Python.
+
+```markdown
 ### 7. How useful do you consider the following features for you (with Useless, Useful, Very useful):
 
   • Running tests in serial/parallel
@@ -229,9 +240,11 @@ Conclusion: In the first instance, we planned to use PHP language for writing te
     ○ Useless (4 persons), Useful (15 persons), Very useful (8 persons)
   • Running tests on different versions of browsers
     ○ Useless (7 persons), Useful (11 persons), Very useful (9 persons)
+```
+
+```Conclusion:``` As we can see, the developers consider the most of our features useful or very useful. This survey will help us prioritize some features and deliver them from the very beginning.
     
-Conclusion: As we can see, the developers consider the most of our features useful or very useful. This survey will help us prioritize some features and deliver them from the very beginning.
-    
+```markdown
 ### 8. What is the one main benefit of test automation you expect to gain?
 
   •  More confidence in the released product (18.5%)
@@ -244,9 +257,11 @@ Conclusion: As we can see, the developers consider the most of our features usef
   •  Less support issues (3.7%)
   •  Finding more bugs (3.7%)
   •  None/no benefit (3.7%)
+```
+
+```Conclusion:``` As we thought, people expect from a testing framework to reduce the time needed for creating and running tests and to increase the overall product quality by increasing the code coverage. We’ll try to optimize our product to be as simple and efficient as possible for creating tests and we’ll offer features as scalability and parallel testing to reduce the testing time.
   
-Conclusion: As we thought, people expect from a testing framework to reduce the time needed for creating and running tests and to increase the overall product quality by increasing the code coverage. We’ll try to optimize our product to be as simple and efficient as possible for creating tests and we’ll offer features as scalability and parallel testing to reduce the testing time.
-  
+```markdown
 ###  What feature would you prefer implemented by default ? (considering some performance impact)
 
 Answers:
