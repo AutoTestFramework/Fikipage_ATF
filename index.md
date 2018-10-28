@@ -279,13 +279,18 @@ Answers:
   •  Various smart templates.
 ```
 
-# The PROOF!
-
-  ![Screenshot](/survey_responses.jpg)
-
 * Conclusions:
   * From the results obtained through this survey we realized that those interested in automated testing, runs tests locally on theirs PCs, so they could become potential users of our application. People who have an in-house framework will also choose our product.
   * At the same time we found out that 48.1% do not run the tests every day, so they don't use their infrastructure to the maximum of potential and could reduce costs by running tests in our application on-demand. We also determined that most of users prefer to write tests as code and the most used languages that our application should support. We also have the list of the most useful and wanted functionalities so we know how to prioritize them for a MVP.
+  
+### Do you think we lied? Check this out!
+
+  ![Screenshot](/0_response.png)
+  ![Screenshot](/1_response.png)
+  ![Screenshot](/2_response.png)
+  ![Screenshot](/3_response.png)
+  ![Screenshot](/4_response.png)
+  ![Screenshot](/5_response.png)
 
 #### What people wanted from us?
   * Higher confidence, increased quality, faster releases;
