@@ -3,9 +3,9 @@
 #### Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
 ---
 
-### 1. Project title - Automated Testing Framework (ATF)
+## Motto: “Tests as first-class citizen.”
 
-Agile development methodologies are an integral part of modern application delivery. Developers and QA professionals must collaborate closely to provide quick feedback and shorten development cycles, which means that builds may be delivered for testing on a daily basis or even several times a day. Every build must undergo minimal sanity testing to ensure integrity before being passed on for more intensive QA, and it's impossible to keep up with that kind of pace without an automation safety net. While the benefits of a stable build aren't always measured using the classic metrics of workdays saved or number of defects found, they're key to the organization's efficiency and ability to quickly deliver high quality products. If your organization is already agile, make sure automation is included in your definition of "done," just like any other functional requirement, and you'll move another step closer to DevOps.
+### 1. Project title - Automated Testing Framework (ATF)
 
 * *Test automation provides sanity checks for ever-changing production code. Automation framework consists of the integration of tools, libraries and utilities needed to interact with the system under test. Automated tests are scripted scenarios that drive the framework to query the application through a series of steps, and then use the information the framework gathered to determine the state of your test.* 
 
@@ -17,7 +17,7 @@ Agile development methodologies are an integral part of modern application deliv
 * **What we need?** 
    * The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. To achieve that, we create the **AGILE team**:
 
-      `Front-End Engineer & UI/UX Designer: Andreea Alistar`
+     ![Screenshot](/logo_atf.png) `Front-End Engineer & UI/UX Designer: Andreea Alistar`
         * Role: Product Owner
           * Email: andreealistar@gmail.com
           * Linkedin: https://www.linkedin.com/in/andreea-alistar-305331101/
@@ -43,9 +43,14 @@ Agile development methodologies are an integral part of modern application deliv
 
 ### 3. Describe the problem that you have noticed
 
-* Manual testing is a thing of the past;
-* The current frameworks have limited features;
-* Expensive for what if offers (license or subscription costs of commercial automation solutions);
+## You would review PRODUCTION code, wouldn't you? You should review test code, too.
+
+  * Tests are part of your product and your team need to design tests as a core feature of your product. The benefits of a stable build aren't always measured using the classic of number of defects found.
+  * If your organization is working with agile development methodologies, make sure automation is included in your definition of **"done"** just like any other functional requirement. Then you'll move another step closer to DevOps.
+  * We found that:
+    * Manual testing is a thing of the past;
+    * The current frameworks have limited features;
+    * Expensive for what if offers (license or subscription costs of commercial automation solutions);
 
 ### 4. Your solution / value proposition
 
