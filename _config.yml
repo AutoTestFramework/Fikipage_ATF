@@ -1,4 +1,20 @@
 title: Automated Testing Framework
 logo: logo_atf.png
-description: Automated Testing Framework is a web application for creating, administrating and running automated tests.
+description: Web application for creating, administrating and running automated tests.
 theme:  jekyll-theme-cayman
+# show feedback button in top nav bar?
+show_feedback: true
+
+# email address feedback gets sent to
+feedback_email: someemail@gmail.com
+
+# the output. in the _config_pdf.yml, this is "pdf". you can create conditions based on this property (such as navtab content that should appear in web but not pdf).
+format: web
+
+# the little icon that appears in the browser window's tab
+favicon: assets/favicon.ico
+
+############# TOP NAVIGATION BAR ################
+
+# use a logo image in your nav bar.
+use_logo: true
