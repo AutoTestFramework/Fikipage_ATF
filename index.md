@@ -238,40 +238,42 @@
 ###  What feature would you prefer implemented by default ? (considering some performance impact)
 
 Answers:
-•  It would be nice for an ATF to have a feature that tells you the code coverage for each test.
-•  Multitasking used for isolated parallel testing.
-•  .
-•  Mobile view test
-•  Running testing plans on Schedule
-•  Have the ability to navigate easily between tests, run multiple tests in parallel.
-•  Email notification
-•  Intuitive API interface
-•  Clear overview of the tests and results and charys
-•  None
-•  Possible hints to how certain bugs can be fixed (e.g. how Microsoft Excel gives clues to how to fix what it detects to be a wrong formula).
-•  Mocking
-•  context setup/destruction from code for each test
-•  Dont understand the questiin
-•  Run the tests in parallel.
-•  N/A
-•  Performance tracking/management
-•  Don’t understand the question
-•  Be able to see the stacks of records and be able to play back test cases
-•  Less human interaction
-•  Scalability
-•  Running parallel tests
-•  paralelismul
-•  ALL OF THEM
-•  Coverage
-•  Paralel tests
+  •  It would be nice for an ATF to have a feature that tells you the code coverage for each test.
+  •  Multitasking used for isolated parallel testing.
+  •  .
+  •  Mobile view test
+  •  Running testing plans on Schedule
+  •  Have the ability to navigate easily between tests, run multiple tests in parallel.
+  •  Email notification
+  •  Intuitive API interface
+  •  Clear overview of the tests and results and charys
+  •  None
+  •  Possible hints to how certain bugs can be fixed (e.g. how Microsoft Excel gives clues to how to fix what it detects to be a wrong formula).
+  •  Mocking
+  •  context setup/destruction from code for each test
+  •  Dont understand the questiin
+  •  Run the tests in parallel.
+  •  N/A
+  •  Performance tracking/management
+  •  Don’t understand the question
+  •  Be able to see the stacks of records and be able to play back test cases
+  •  Less human interaction
+  •  Scalability
+  •  Running parallel tests
+  •  paralelismul
+  •  ALL OF THEM
+  •  Coverage
+  •  Paralel tests
 ```
 
-`Conclusions`
+# The PROOF!
 
   ![Screenshot](/survey_responses.jpg)
 
-* From the results obtained through this survey we realized more than 50% of those interested in automated testing, runs tests locally on theirs PCs, so they could become potential users of our application, 31% don't have an in-house framework so they could choose our product.
-* At the same time we found out that 60% do not run the tests every day, so they don't use their infrastructure to the maximum of potential and could reduce costs by running tests in our application on-demand. We also determined that most of users prefer to write tests as code and the most used languages that our application should to support. We also have the list of the most useful and wanted functionalities so we know how to prioritize them for a MVP.
+
+* Conclusions:
+  * From the results obtained through this survey we realized that those interested in automated testing, runs tests locally on theirs PCs, so they could become potential users of our application. People who have an in-house framework will also choose our product.
+  * At the same time we found out that 60% do not run the tests every day, so they don't use their infrastructure to the maximum of potential and could reduce costs by running tests in our application on-demand. We also determined that most of users prefer to write tests as code and the most used languages that our application should to support. We also have the list of the most useful and wanted functionalities so we know how to prioritize them for a MVP.
 
 ### 5. Describe how these insights have affected your product (if in any way).
 
