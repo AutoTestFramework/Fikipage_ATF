@@ -1,6 +1,6 @@
 # M1 - Fiki and Project Description
 ---
-#### Andreea Alistar   AND   Andrei Crividenco   AND   Cirimpei Dumitru  AND   Eugen Draguteanu
+#### Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
 ---
 
 ### 1. Project title - Automated Testing Framework (ATF)
@@ -124,7 +124,8 @@
 
 
 # M2 - Validation 1 (idea)
-### Andreea Alistar   AND   Andrei Crividenco   AND   Cirimpei Dumitru  AND   Eugen Draguteanu
+---
+#### Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
 ---
 
 ### 1. How you identified the problem?
