@@ -1,30 +1,6 @@
 title: Automated Testing Framework
 logo: logo_atf.png
+format: web
+use_logo: true
 description: Web application for creating, administrating and running automated tests.
 theme:  jekyll-theme-cayman
-# show feedback button in top nav bar?
-show_feedback: true
-
-# email address feedback gets sent to
-feedback_email: someemail@gmail.com
-
-# the output. in the _config_pdf.yml, this is "pdf". you can create conditions based on this property (such as navtab content that should appear in web but not pdf).
-format: web
-
-# the little icon that appears in the browser window's tab
-favicon: assets/favicon.ico
-
-############# TOP NAVIGATION BAR ################
-
-# use a logo image in your nav bar.
-use_logo: true
-
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
