@@ -51,7 +51,7 @@
     * The current frameworks have limited features;
     * Expensive for what if offers (license or subscription costs of commercial automation solutions);
 
-### 4. Your solution / value proposition
+### 4. Our solutions proposed / value proposition
 
 * Reduce the work of manual testing (time savings + staff performance);
 * Earlier bugs identified before the users are impacted (spot smallest imperfections);
@@ -92,11 +92,11 @@
 |      **Watir**      |     Free     |      Windows      |                     Ruby (Java/.Net alternatively)                    |            Web            |                  Minimum skills                  |
 |     **Ranorex**     |  $2800/$850  |      Windows      |                        C#, VB.Net, Iron Python                        |    Web, mobile, desktop   | Minimum skills/Advanced skills for pro scripting |
 
-### 7. Your advantage over the competition
+### 7. Advantage over the competition
 
 * Cost: open source + free license cost;
 * Customization;
-* Control;
+* Feature control: "You decide, we do!";
 * Ease of use;
 * No advertising, no clutter;
 * Fast support;
@@ -108,12 +108,12 @@
 * Failure rates;
 * Server uptime;
 * Adoption rate;
-* Tests running overhead;
+* Runtime test overhead;
 
 ### 9. Cost structure
 
-* Marketplace for special plugins and features, like: storing tests in the cloud, scm for the tests, custom user intefaces;
-* A donation button will be available on the main download page;
+* Marketplace for special plugins and features: storing tests in the cloud, scm for the tests, custom user intefaces;
+* A donation button will be available on the main download page => revenue is equally divided;
 
 ### 10. Revenue streams
 
@@ -124,9 +124,11 @@
   * 25$ (A quarter of a hard-drive)
   * 50$ (5% of one MS Visual Studio license)
   * …$ Of course, you can donate any amount you regard appropriate.
-* Paid modules like Connect to DB, Connect to RabbitMQ, etc.;
-* Running tests in parallel;
-* Running tests for specific browser on specific version on specific operating system;
+* Paid modules: Connect to DB, Connect to RabbitMQ, etc.;
+* Feature for running tests in parallel;
+* Feature for running tests in a specific environment (browser/OS);
+* Cloud storage space for the tests;
+* SCM feature for the tests;
 
 
 # M2 - Validation 1 (idea)
@@ -160,8 +162,9 @@
 
 #### 4.2 How you reached them, how you collected information from them? Include the questions that you asked and all of your findings.
   
-  * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" (https://romaniatesting.ro), which takes place annually in Cluj. 
-  * So we created an online survey that was distributed to testers within interested companies. This survey included the following questions (https://docs.google.com/forms/d/e/1FAIpQLSfibey92Iiv6dQyhn6W_fFrSSLx5lPOWiEQT81tvh_lGo9Fww/viewform?usp=sf_link)
+  * To interact with potential clients we decided to contact companies interested in this topic, so we interviewed representatives of the participating companies but also partners of the "ROMANIAN TESTING CONFERENCE" - [Romania_Testing_Conference](https://romaniatesting.ro), which takes place annually in Cluj. 
+  * We created an online survey that was distributed to testers within interested companies: [Survey_Automated_Testing_Framework](https://docs.google.com/forms/d/e/1FAIpQLSfibey92Iiv6dQyhn6W_fFrSSLx5lPOWiEQT81tvh_lGo9Fww/viewform)
+  * The survey included the following questions:
 
 ```markdown
 
