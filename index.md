@@ -17,7 +17,7 @@
 * **What we need?** 
    * The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. To achieve that, we create the **AGILE team**:
 
-     ![Screenshot] (/alistar.png)`Front-End Engineer & UI/UX Designer: Andreea Alistar`
+     ![Screenshot](/alistar.png) `Front-End Engineer & UI/UX Designer: Andreea Alistar`
         * Role: Product Owner
           * Email: andreealistar@gmail.com
           * Linkedin: https://www.linkedin.com/in/andreea-alistar-305331101/
