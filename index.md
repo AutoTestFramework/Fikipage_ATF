@@ -170,70 +170,70 @@
 
 ### 1. Do you, or your current team, possess enough technical skills to build and maintain test automation?
 
-  • Yes (10%)
-  • Partially (34%)
-  • No (56%)
+  • Yes
+  • Partially
+  • No
 
 ### 2. How do you run the automated tests:
 
-  • in an application developed in-house (12%)
-  • in a commercial application (31%)
-  • locally on your PC / Laptop (57%)
-  • otherwise
+  • In an application developed in-house
+  • In a commercial application
+  • Locally on your PC / Laptop
+  • Otherwise
   
 ### 3. How often do you run automated tests:
 
-  • Daily (40%)
-  • several times a week (47%)
-  • several times a month (13%)
+  • Daily
+  • Several times a week
+  • Several times a month
   
 ### 4. What types of tests you run (multiple responses):
 
-  • Api (12%)
-  • Smoke (37%)
-  • Acceptance (46%)
-  • Others (5%)
+  • Api
+  • Smoke
+  • Acceptance
+  • Others
 
 ### 5. HOW do you prefer to create tests and WHY?
 
-  • Clicking in the interface (7%, no programming skills required)
-  • Writing Code (93%, better structure of tests, component reuse, creation of own logic, ...)
+  • Clicking in the interface (no programming skills required)
+  • Writing Code (better structure of tests, component reuse, creation of own logic, ...)
   
 ### 6. In which language do you prefer to write tests:
 
-  • Java (21%)
-  • Javascript (24%)
-  • Python (18%)
-  • PHP (27%)
-  • Other (10%)
+  • Java
+  • Javascript
+  • Python
+  • PHP
+  • Other
   
 ### 7. How useful do you consider the following features for you (with Useless, Useful, Very useful):
 
   • Running tests in serial/parallel
-    ○ 7% - Useless, 65% - Useful, 28% - Very useful
+    ○ Useless, Useful, Very useful
   • Running defined tests via API
-    ○ 15% - Useless, 73% - Useful, 12% - Very useful
+    ○ Useless, Useful, Very useful
   • Running testing plans on Schedule
-    ○ 8% - Useless, 73% - Useful, 12% - Very useful
+    ○ Useless, Useful, Very useful
   • Running tests on different operating systems
-    ○ 81% - Useless, 17% - Useful, 2% - Very useful
+    ○ Useless, Useful, Very useful
   • Running tests on different browsers
-    ○ 10% - Useless, 61% - Useful, 29% - Very useful
+    ○ Useless, Useful, Very useful
   • Running tests on different versions of browsers
-    ○ 15% - Useless, 66% - Useful, 19% - Very useful
+    ○ Useless, Useful, Very useful
     
 ### 8. What is the one main benefit of test automation you expect to gain?
 
-  •  More confidence in the released product (27%)
-  •  Higher product quality (26%)
-  •  Faster releases/meeting the schedule (19%)
-  •  More interesting job/skill than manual testing (7%)
-  •  Creating and automating tests helps everyone better understand the system under test (7%)
-  •  Show system consistency (2%)
-  •  Customers finding less bugs (2%)
-  •  Less support issues (2%)
-  •  Finding more bugs (1%)
-  •  None/no benefit (1%)
+  •  More confidence in the released product
+  •  Higher product quality
+  •  Faster releases/meeting the schedule
+  •  More interesting job/skill than manual testing
+  •  Creating and automating tests helps everyone better understand the system under test
+  •  Show system consistency
+  •  Customers finding less bugs
+  •  Less support issues
+  •  Finding more bugs
+  •  None/no benefit
   
 ```
 
