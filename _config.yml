@@ -1,4 +1,4 @@
 title: Automated Testing Framework
 logo: logo_atf.png
 description: Automated Testing Framework is a web application for creating, administrating and running automated tests.
-theme:  jekyll-theme-awesome
+theme:  jekyll-theme-minimal
