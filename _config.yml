@@ -1,9 +1,12 @@
 title: Automated Testing Framework
-logo: logo_atf.png
-format: web
-use_logo: true
 description: Web application for creating, administrating and running automated tests.
+show_downloads: true
 
-# Setup
-tagline:      landing page
+# social
+author: "Lore Pirri"
+image: /logo_atf.png
+
+use_logo: true
+logo: /logo_atf.png
+
 theme:  jekyll-theme-cayman
