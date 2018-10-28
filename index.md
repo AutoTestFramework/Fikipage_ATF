@@ -17,25 +17,25 @@
 * **What we need?** 
    * The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. To achieve that, we create the **AGILE team**:
 
-     ![Screenshot](/1.png)`Front-End Engineer & UI/UX Designer: Andreea Alistar`
+     ![Screenshot] (/1.jpg)`Front-End Engineer & UI/UX Designer: Andreea Alistar`
         * Role: Product Owner
           * Email: andreealistar@gmail.com
           * Linkedin: https://www.linkedin.com/in/andreea-alistar-305331101/
           * Facebook: https://www.facebook.com/alistar.andreea
 
-      ![Screenshot](/2.png) `Front-End Engineer: Eugen Draguteanu`
+      ![Screenshot](/2.jpg) `Front-End Engineer: Eugen Draguteanu`
         * Role: Developer
           * Email: eugeniu.draguteanu@gmail.com
           * Linkedin: https://www.linkedin.com/in/eugeniu-draguteanu-510798103/
           * Facebook: https://www.facebook.com/eugen.draguteanu
         
-      ![Screenshot](/3.png) `Backend Architect + QA: Cirimpei Dumitru`
+      ![Screenshot](/3.jpg) `Backend Architect + QA: Cirimpei Dumitru`
         * Role: Scrum Master
           * Email: cirimpei.dumitru@gmail.com
           * Linkedin: https://www.linkedin.com/in/dumitru-cirimpei/
           * Facebook: https://www.facebook.com/mitrumd
         
-      ![Screenshot](/4.png) `Full Stack + QA Engineer: Andrei Crividenco`
+      ![Screenshot](/4.jpg) `Full Stack + QA Engineer: Andrei Crividenco`
         * Role: Developer
           * Email: acrividenco@gmail.com
           * Linkedin: https://www.linkedin.com/in/andrei-crividenco-76538814b/
