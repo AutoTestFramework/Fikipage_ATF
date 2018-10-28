@@ -128,7 +128,6 @@
 # M2 - Validation 1 (idea)
 ---
 #### Team M2: Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
-#### Motto:   “Tests as first-class citizen.”
 ---
 
 ### 1. How you identified the problem?
