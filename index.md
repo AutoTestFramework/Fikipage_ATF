@@ -5,6 +5,8 @@
 
 ### 1. Project title - Automated Testing Framework (ATF)
 
+Agile development methodologies are an integral part of modern application delivery. Developers and QA professionals must collaborate closely to provide quick feedback and shorten development cycles, which means that builds may be delivered for testing on a daily basis or even several times a day. Every build must undergo minimal sanity testing to ensure integrity before being passed on for more intensive QA, and it's impossible to keep up with that kind of pace without an automation safety net. While the benefits of a stable build aren't always measured using the classic metrics of workdays saved or number of defects found, they're key to the organization's efficiency and ability to quickly deliver high quality products. If your organization is already agile, make sure automation is included in your definition of "done," just like any other functional requirement, and you'll move another step closer to DevOps.
+
 * *Test automation provides sanity checks for ever-changing production code. Automation framework consists of the integration of tools, libraries and utilities needed to interact with the system under test. Automated tests are scripted scenarios that drive the framework to query the application through a series of steps, and then use the information the framework gathered to determine the state of your test.* 
 
 ### 2. Present the team and assign the roles (such as FR, BE, PO, PM, etc)
@@ -226,6 +228,11 @@
   •  None/no benefit (1%)
   
 ```
+
+`Conclusions`
+
+* From the results obtained through this survey we realized more than 50% of those interested in automated testing, runs tests locally on theirs PCs, so they could become potential users of our application, 31% don't have an in-house framework so they could choose our product.
+* At the same time we found out that 60% do not run the tests every day, so they don't use their infrastructure to the maximum of potential and could reduce costs by running tests in our application on-demand. We also determined that most of users prefer to write tests as code and the most used languages that our application should to support. We also have the list of the most useful and wanted functionalities so we know how to prioritize them for a MVP.
 
 ### 5. Describe how these insights have affected your product (if in any way).
 
