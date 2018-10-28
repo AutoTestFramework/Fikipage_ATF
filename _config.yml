@@ -6,18 +6,4 @@ description: Web application for creating, administrating and running automated 
 
 # Setup
 tagline:      landing page
-baseurl:      ""
-paginate:     1
-locale:       "en"
-
-# About/contact
-author:
-  name:       Andreea Alistar & Andrei Crividenco & Cirimpei Dumitru & Eugen Draguteanu
-  url:        https://autotestframework.github.io/Fikipage_ATF/
-
-
-#Others
-markdown: kramdown
-
-
 theme:  jekyll-theme-cayman
