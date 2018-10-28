@@ -118,12 +118,12 @@
 ### 10. Revenue streams
 
 * Donations;
-  * 1$ (Ten hours of electricity for one developer PC)
-  * 5$ (One day webserver hosting)
-  * 10$ (5% of our monthly telecommunication costs)
-  * 25$ (A quarter of a hard-drive)
-  * 50$ (5% of one MS Visual Studio license)
-  * …$ Of course, you can donate any amount you regard appropriate.
+  * `1$ - Ten hours of electricity for one developer PC!`
+  * `5$ - One day webserver hosting!`
+  * `10$ - 5% of our monthly telecommunication costs!`
+  * `25$ - A quarter of a hard-drive!`
+  * `50$ - 5% of one MS Visual Studio license!`
+  * `$ - Of course, you can donate any amount you regard appropriate!`
 * Paid modules: Connect to DB, Connect to RabbitMQ, etc.;
 * Feature for running tests in parallel;
 * Feature for running tests in a specific environment (browser/OS);
