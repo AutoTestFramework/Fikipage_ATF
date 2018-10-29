@@ -318,3 +318,12 @@ Answers:
 ### 6. Do you consider that you are ready to move to the Customer Validation stage (to test selling)? Provide arguments.
 
   * Considering that we’ve covered all complaints about other existing solutions regarding Automated Testing Frameworks and that most customers are happy with our other proposals, we’re ready to move on to the next stage!!!
+  
+# M3 - Wireframe and Landing Page
+---
+#### Team M3: Andreea Alistar   &   Andrei Crividenco   &   Cirimpei Dumitru  &   Eugen Draguteanu
+---
+
+* Wireframe:
+
+* Landing Page:
