@@ -1,3 +1,0 @@
-1. What is ATF? Automated Testing Framework is a web application for creating, administrating and running automated tests.
-2. What we want to achieve? Test automation is living, breathing code and is developed to provide sanity checks for ever-changing production code. Building an automated testing framework can make your testing scalable, reliable, efficient, cost-effective and less brittle.
-3. What we need? The team needed an experienced understanding of software testing and QA to know how to achieve the right balance of manual, UI, integration (API) and unit tests. 
