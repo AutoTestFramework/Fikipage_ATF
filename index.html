@@ -94,6 +94,45 @@
                     <li><a href="https://autotestframework.github.io/Milestones_Repo/Milestone_5.html">Milestone 5</a></li>
 		    <li class="colorlib-active"><a href="https://drive.google.com/file/d/13UnfwMQGfEnAbmyC70dVIFKqayDH9xuF/preview">Midterm Presentation</a></li>		    
 		    </ul>
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+	var $sub = $("#_subject");
+	$("#email").on("input", function() {
+		$sub.val("Blog Contact Form (" + $(this).val() + ")");
+	});
+});
+</script>
+<style>
+#contactform label {
+	display: inline-block;
+	width: 80px;
+	height:25px;
+}
+
+#contactform textarea {
+	width: 100%;
+	height: 150px;
+}			
+</style>
+	
+</nav>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<form action="//formspree.io/andreealistar@gmail.com" method="POST" id="contactform">
+	<input type="hidden" name="_next" value="{{% siteurl %}}/thankyou">
+	<input type="hidden" name="_subject" id="_subject" value="Blog Contact Form">
+	<input type="text" name="_gotcha" style="display:none" />
+
+	<label for="email">Email: </label>
+	<input type="email" name="_replyto" id="email" required><br/>
+	<p>
+	<input type="submit" value="Send">
+	</p>
+</form>
+
             </nav>
 
             <div class="colorlib-footer">
