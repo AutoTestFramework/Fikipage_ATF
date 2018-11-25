@@ -84,7 +84,7 @@ figure {
   left: 0;
   overflow-y: scroll;
   z-index: 1001;
-  background: #2C2C2C;
+  background: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -287,7 +287,7 @@ figure {
           bottom: 0;
           right: -15px;
           padding: 30px;
-          background: #FFC300; }
+          background: black; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .desc {
               right: 0;
@@ -298,7 +298,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          color: white;
           font-family: "Quicksand", Arial, sans-serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -491,9 +491,9 @@ body.offcanvas {
         vertical-align: middle;
         color: #000; }
   .steps:hover i {
-    color: #FFC300 !important; }
+    color: white !important; }
   .steps.active i {
-    color: #FFC300 !important; }
+    color: white !important; }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
@@ -591,7 +591,7 @@ body.offcanvas {
     height: 100px;
     display: table;
     text-align: center;
-    background: rgba(0, 0, 0, 0.03);
+    background: white;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -621,7 +621,7 @@ body.offcanvas {
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
     margin-top: 30px; }
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-    color: #FFC300;
+    color: white;
     font-size: 40px; }
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
@@ -925,7 +925,7 @@ body.offcanvas {
       .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
         outline: none;
         text-decoration: none;
-        color: #FFC300; }
+        color: white; }
 
 #map {
   width: 100%;
@@ -935,7 +935,7 @@ body.offcanvas {
       height: 200px; } }
 
 .colorlib-bg-color {
-  background: #fafafa;
+  background-color: white;
   position: relative; }
 
 .pagination {
@@ -964,11 +964,11 @@ body.offcanvas {
         .pagination li a {
           padding: 7px 15px; } }
     .pagination li.active a {
-      background: #FFC300;
+      background: white;
       border: 1px solid #FFC300 !important; }
       .pagination li.active a:hover, .pagination li.active a:focus {
-        background: #FFC300;
-        color: #fff;
+        background: white;
+        color: white;
         border: 1px solid #FFC300 !important; }
 
 .btn {
@@ -1117,9 +1117,9 @@ body.offcanvas {
   cursor: pointer;
   text-decoration: none; }
   .colorlib-nav-toggle.active i::before, .colorlib-nav-toggle.active i::after {
-    background: #000; }
+    background: white; }
   .colorlib-nav-toggle.dark.active i::before, .colorlib-nav-toggle.dark.active i::after {
-    background: #000; }
+    background: white; }
   .colorlib-nav-toggle:hover, .colorlib-nav-toggle:focus, .colorlib-nav-toggle:active {
     outline: none;
     border-bottom: none !important; }
@@ -1143,7 +1143,7 @@ body.offcanvas {
       content: '';
       width: 30px;
       height: 2px;
-      background: #000;
+      background: white;
       position: absolute;
       left: 0;
       -webkit-transition: 0.2s;
@@ -1151,13 +1151,13 @@ body.offcanvas {
       transition: 0.2s; }
   .colorlib-nav-toggle.dark i {
     position: relative;
-    color: #000;
-    background: #000;
+    color: white;
+    background: white;
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
     .colorlib-nav-toggle.dark i::before, .colorlib-nav-toggle.dark i::after {
-      background: #000;
+      background: white;
       -webkit-transition: 0.2s;
       -o-transition: 0.2s;
       transition: 0.2s; }
