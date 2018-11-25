@@ -6,26 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>ATF's FiKi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-
-    <!-- Facebook and Twitter integration -->
-    <meta property="og:title" content="" />
-    <meta property="og:image" content="" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="" />
-    <meta property="og:description" content="" />
-    <meta name="twitter:title" content="" />
-    <meta name="twitter:image" content="" />
-    <meta name="twitter:url" content="" />
-    <meta name="twitter:card" content="" />
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" href="favicon.ico">
 
     <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
-
+    <link rel="shortcut icon" href="favicon.ico">
     <!-- Animate.css -->
     <link rel="stylesheet" href="css/animate.css">
     <!-- Icomoon Icon Fonts-->
@@ -41,41 +24,7 @@
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <!-- Theme style  -->
     <link rel="stylesheet" href="css/style.css">
-
-    <script src="js/modernizr-2.6.2.min.js"></script>
-
-	<script type="text/javascript">
-  window._mfq = window._mfq || [];
-  (function() {
-    var mf = document.createElement("script");
-    mf.type = "text/javascript"; mf.async = true;
-    mf.src = "//cdn.mouseflow.com/projects/327b3fb2-25db-480f-9c9d-42575948c3e4.js";
-    document.getElementsByTagName("head")[0].appendChild(mf);
-  })();
-</script>
-	
-	<!-- Hotjar Tracking Code for https://autotestframework.github.io/Landing_page_R -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:1089685,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129175432-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-129175432-1');
-</script>
-	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -92,37 +41,25 @@
                     <li class="colorlib-active"><a href="https://autotestframework.github.io/Landing_page_Repo/">Landing page</a></li>
                     <li><a href="https://autotestframework.github.io/Milestones_Repo/Milestone_4.html">Milestone 4</a></li>
                     <li><a href="https://autotestframework.github.io/Milestones_Repo/Milestone_5.html">Milestone 5</a></li>
-		    <li class="colorlib-active"><a href="https://drive.google.com/file/d/13UnfwMQGfEnAbmyC70dVIFKqayDH9xuF/preview">Midterm Presentation</a></li>		    
-		    <li><a href="https://autotestframework.github.io/Milestones_Repo/Milestone_6.html">Milestone 6</a></li>
-		    </ul>
+                    <li class="colorlib-active"><a href="https://drive.google.com/file/d/13UnfwMQGfEnAbmyC70dVIFKqayDH9xuF/preview">Midterm Presentation</a></li>
+                    <li><a href="https://autotestframework.github.io/Milestones_Repo/Milestone_6.html">Milestone 6</a></li>
+                </ul>
 
+                <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+                <script>
+                    $(document).ready(function() {
+                        var $sub = $("#_subject");
+                        $("#email").on("input", function() {
+                            $sub.val("Blog Contact Form (" + $(this).val() + ")");
+                        });
+                    });
+                </script>
 
+                <div class="colorlib-footer">
+                    <p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script></br> Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://autotestframework.github.io/Landing_page_Repo/team.html" target="_blank">ATF</a></br></br>
+<i style="font-size:24px" class="fa"><a href="https://www.facebook.com/ATF-2070039866387132/?modal=admin_todo_tour">&#xf082;</a></i>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script>
-$(document).ready(function() {
-	var $sub = $("#_subject");
-	$("#email").on("input", function() {
-		$sub.val("Blog Contact Form (" + $(this).val() + ")");
-	});
-});
-</script>
-<style>
-#contactform label {
-	display: inline-block;
-	width: 80px;
-	height:25px;
-}
-
-#contactform textarea {
-	width: 100%;
-	height: 150px;
-}			
-</style>
-
-            <div class="colorlib-footer">
-                <p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script></br> Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://autotestframework.github.io/Landing_page_Repo/team.html" target="_blank">ATF</a>
 			</div>
 
 		</aside>
@@ -139,7 +76,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script></br> 
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
 						   					<h1>What is ATF?</h1>
-						   					<h2>Web application for creating, administrating and running automated tests by<a href="https://autotestframework.github.io/Test/" target="_blank">ATF</a></h2>
+						   					<h2>Web application for creating, administrating and running automated tests.</h2>
 												<p><a class="btn btn-primary btn-learn" href="https://autotestframework.github.io/Landing_page_Repo/">View Project <i class="icon-arrow-right3"></i></a></p>
 											</div>
 					   				</div>
@@ -199,6 +136,49 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script></br> 
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
+	   <script src="js/modernizr-2.6.2.min.js"></script>
+
+    <script type="text/javascript">
+        window._mfq = window._mfq || [];
+        (function() {
+            var mf = document.createElement("script");
+            mf.type = "text/javascript";
+            mf.async = true;
+            mf.src = "//cdn.mouseflow.com/projects/327b3fb2-25db-480f-9c9d-42575948c3e4.js";
+            document.getElementsByTagName("head")[0].appendChild(mf);
+        })();
+    </script>
+
+    <!-- Hotjar Tracking Code for https://autotestframework.github.io/Landing_page_R -->
+    <script>
+        (function(h, o, t, j, a, r) {
+            h.hj = h.hj || function() {
+                (h.hj.q = h.hj.q || []).push(arguments)
+            };
+            h._hjSettings = {
+                hjid: 1089685,
+                hjsv: 6
+            };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script');
+            r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129175432-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-129175432-1');
+    </script>
 
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
